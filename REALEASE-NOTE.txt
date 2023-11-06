@@ -1,0 +1,30 @@
+# Catatan Rilis
+
+JNE Calculator version 1.5.4 - 6 November 2023
+
+Update 
+
+### Fitur Lama
+- Menambahkan fitur penghitungan volume berdasarkan rumus (panjang + [AngkaPanjang]) * (lebar + [AngkaLebar]) * (tinggi + [AngkaTinggi]) / [AngkaPembagi].
+- Angka Tambahan,  angka pembagi(Ongkir) dapat disesuaikan dan di tampilkan langsung pada rumus
+- Menampilkan hasil volume yang telah dihitung.
+
+### Fitur Baru
+
+- Antarmuka layar penuh dan Lebih Mudah digunakan
+- Mudah Mengganti Rumus 
+- Tersedia Pilihan Rumus Default dari JNE 
+- Selamat datang di aplikasi Penghitung Volume! 
+- Ukuran Font Lebih Besar
+- Form About Border dihilangkan
+- Tambahan Indicator Default Pada Combobox
+### Perubahan
+
+- Alur Algoritma Penampil Rumus Sesuai dengan ketentuan alur yang mudah digunakan  (User Fiendly).
+
+
+### Perbaikan Bug
+
+- Tidak ada perbaikan bug pada versi ini.
+### Bug 
+- Belum ada Bug yang terdeteksi

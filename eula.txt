@@ -1,0 +1,37 @@
+PERJANJIAN LISENSI PENGGUNA AKHIR (EULA)
+
+PENTING: MOHON BACA PERJANJIAN LISENSI PENGGUNA AKHIR INI DENGAN HATI-HATI SEBELUM MENGINSTAL ATAU MENGGUNAKAN PERANGKAT LUNAK.
+
+Perjanjian Lisensi Pengguna Akhir ("Perjanjian") ini merupakan perjanjian hukum antara Anda (baik sebagai individu maupun entitas tunggal) dan [JNE Express] ("Pemberi Lisensi") untuk produk perangkat lunak berjudul "Penghitung Volume" ("Perangkat Lunak").
+
+Dengan menginstal atau menggunakan Perangkat Lunak ini, Anda setuju terikat oleh ketentuan dalam Perjanjian ini. Jika Anda tidak setuju dengan ketentuan dalam Perjanjian ini, jangan menginstal atau menggunakan Perangkat Lunak ini.
+
+1. PEMBERIAN LISENSI:
+   Pemberi Lisensi dengan ini memberikan Anda lisensi non-eksklusif dan tidak dapat dipindahkan untuk menginstal dan menggunakan Perangkat Lunak ini pada komputer atau perangkat Anda untuk keperluan pribadi atau bisnis internal, sesuai dengan syarat dan ketentuan dalam Perjanjian ini.
+
+2. BATASAN:
+   Anda tidak diperbolehkan:
+   a) Memodifikasi, menyesuaikan, menerjemahkan, atau membuat karya turunan berdasarkan Perangkat Lunak ini;
+   b) Membalikkan, mendekompilasi, membongkar, atau mencoba mendapatkan kode sumber dari Perangkat Lunak ini;
+   c) Menghapus, mengubah, atau menyembunyikan pemberitahuan hak cipta, merek dagang, atau hak milik lainnya yang terdapat dalam Perangkat Lunak ini;
+   d) Menggunakan Perangkat Lunak ini untuk tujuan ilegal atau tanpa izin;
+   e) Mendistribusikan, mengalihkan lisensi, menyewakan, menyewakan dengan opsi beli, atau meminjamkan Perangkat Lunak ini kepada pihak ketiga.
+
+3. HAK KEKAYAAN INTELEKTUAL:
+   Perangkat Lunak ini, termasuk semua hak cipta, merek dagang, dan hak kekayaan intelektual lainnya yang terkandung di dalamnya, dimiliki oleh Pemberi Lisensi dan dilindungi oleh hukum kekayaan intelektual yang berlaku. Perjanjian ini tidak memberikan hak kepada Anda untuk menggunakan merek dagang atau hak milik lainnya milik Pemberi Lisensi.
+
+4. PENOLAKAN JAMINAN:
+   Perangkat Lunak ini disediakan "apa adanya" tanpa jaminan apa pun, baik yang tersurat maupun tersirat. Pemberi Lisensi menolak semua jaminan, termasuk namun tidak terbatas pada, jaminan tersirat akan kelayakan dan kegunaan tertentu. Anda bertanggung jawab penuh atas risiko yang terkait dengan instalasi dan penggunaan Perangkat Lunak ini.
+
+5. BATASAN TANGGUNG JAWAB:
+   Dalam keadaan apa pun, Pemberi Lisensi tidak bertanggung jawab atas kerusakan yang timbul dari penggunaan atau ketidakmampuan menggunakan Perangkat Lunak ini, bahkan jika Pemberi Lisensi telah diberi tahu mengenai kemungkinan kerusakan tersebut. Dalam hal ini, tanggung jawab total Pemberi Lisensi kepada Anda atas semua kerusakan tidak akan melebihi jumlah yang Anda bayarkan untuk Perangkat Lunak ini.
+
+6. PEMBERHENTIAN:
+   Perjanjian ini berlaku sampai diakhiri. Pemberi Lisensi dapat mengakhiri Perjanjian ini sewaktu-waktu jika Anda melanggar syarat dan ketentuan yang terkandung di dalamnya. Setelah berakhirnya Perjanjian ini, Anda harus segera menghapus dan menghancurkan semua salinan Perangkat Lunak.
+
+7. HUKUM YANG BERLAKU:
+   Perjanjian ini tunduk pada dan diatur oleh hukum yang berlaku di [Bandung Jawa Barat Indonesia]. Setiap sengketa yang timbul sehubungan dengan atau dalam hubungannya dengan Perjanjian ini akan tunduk pada yurisdiksi eksklusif pengadilan yang berlokasi di [Gegerkalong Hilir].
+
+DENGAN MENGINSTAL ATAU MENGGUNAKAN PERANGKAT LUNAK INI, ANDA MENYATAKAN BAHWA ANDA TELAH MEMBACA DAN MEMAHAMI PERJANJIAN INI DAN SETUJU UNTUK TERIKAT OLEH SYARAT DAN KETENTUAN YANG TERTERA DI DALAMNYA.
+
+
