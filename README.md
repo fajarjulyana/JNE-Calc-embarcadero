@@ -2,6 +2,8 @@
 
 Aplikasi Penghitung Volume Packing Kayu JNE adalah sebuah program sederhana yang digunakan untuk menghitung volume berdasarkan rumus (panjang + 9) * (lebar + 9) * (tinggi + 17) / 6000. Aplikasi ini dibangun menggunakan RAD Studio.
 
+<img src="capture/capture-1.png">
+
 ## Fitur
 
 - Menghitung volume berdasarkan panjang, lebar, dan tinggi yang diinputkan.
@@ -35,3 +37,6 @@ Kontribusi sangat diterima. Jika Anda menemukan bug, memiliki ide untuk perbaika
 ## Lisensi
 
 Aplikasi Penghitung Volume Packing Kayu JNE ini berlisensi di bawah [MIT License](LICENSE).
+
+## Dokumentasi
+<img src="capture/capture-2.png">
